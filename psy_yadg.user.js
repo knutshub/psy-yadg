@@ -6,6 +6,8 @@
 // @version        0.9
 // @namespace      yadg
 // @grant          GM_xmlhttpRequest
+// @updateURL      https://raw.githubusercontent.com/knutshub/psy-yadg/master/psy_yadg.user.js
+// @downloadURL    https://raw.githubusercontent.com/knutshub/psy-yadg/master/psy_yadg.user.js
 // @require        https://yadg.cc/static/js/jsandbox.min.js
 // @include        http*://*psytorrents.info/upload.php*
 // @include        http*://*psytorrents.info/requests.php*
